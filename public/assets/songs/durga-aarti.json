@@ -1,0 +1,29 @@
+{
+  "id": "durga-aarti",
+  "titleHindi": "जय अम्बे गौरी (दुर्गा आरती)",
+  "titleEng": "Jai Ambe Gauri (Durga Aarti)",
+  "videoId": "gW2lC_8WlYc",
+  "nara": "बोलो सांचे दरबार की जय! जय माता दी!",
+  "category": "Durga",
+  "thumbnail": "https://img.youtube.com/vi/gW2lC_8WlYc/hqdefault.jpg",
+  "hindiLyrics": [
+    { "text": "जय अम्बे गौरी, मैया जय श्यामा गौरी।", "repeat": 1 },
+    { "text": "तुमको निशिदिन ध्यावत, हरि ब्रह्मा शिवरी॥ जय अम्बे गौरी॥", "repeat": 2 },
+    { "text": "मांग सिन्दूर विराजत, टीको मृगमद को।", "repeat": 1 },
+    { "text": "उज्ज्वल से दोउ नैना, चन्द्रवदन नीको॥ जय अम्बे गौरी॥", "repeat": 2 },
+    { "text": "कनक समान कलेवर, रक्ताम्बर राजै।", "repeat": 1 },
+    { "text": "रक्तपुष्प गल माला, कण्ठन पर साजै॥ जय अम्बे गौरी॥", "repeat": 2 },
+    { "text": "केहरि वाहन राजत, खड्ग खप्परधारी।", "repeat": 1 },
+    { "text": "सुर-नर-मुनिजन सेवत, तिनके दुःखहारी॥ जय अम्बे गौरी॥", "repeat": 2 }
+  ],
+  "englishLyrics": [
+    { "text": "Jai Ambe Gauri, Maiya Jai Shyama Gauri|", "repeat": 1 },
+    { "text": "Tumko Nishidin Dhyavat, Hari Brahma Shivri|| Jai Ambe Gauri||", "repeat": 2 },
+    { "text": "Maang Sindoor Virajat, Teeko Mrigmad Ko|", "repeat": 1 },
+    { "text": "Ujjwal Se Dou Naina, Chandravadan Neeko|| Jai Ambe Gauri||", "repeat": 2 },
+    { "text": "Kanak Samaan Kalevar, Raktambar Raaje|", "repeat": 1 },
+    { "text": "Raktapushpa Gal Mala, Kanthan Par Saaje|| Jai Ambe Gauri||", "repeat": 2 },
+    { "text": "Kehari Vaahan Raajat, Khadag Khappardhari|", "repeat": 1 },
+    { "text": "Sur-Nar-Munijan Sevat, Tinke Dukhhari|| Jai Ambe Gauri||", "repeat": 2 }
+  ]
+}

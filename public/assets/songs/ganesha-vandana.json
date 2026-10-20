@@ -1,0 +1,29 @@
+{
+  "id": "ganesha-vandana",
+  "titleHindi": "श्री गणेश वंदना",
+  "titleEng": "Shri Ganesha Vandana",
+  "videoId": "a0O4H-G0z8k",
+  "nara": "बोलो गणपति बप्पा मोरया! मंगल मूर्ति मोरया!",
+  "category": "Ganesha",
+  "thumbnail": "https://img.youtube.com/vi/a0O4H-G0z8k/hqdefault.jpg",
+  "hindiLyrics": [
+    { "text": "गजाननं भूतगणादिसेवितं", "repeat": 1 },
+    { "text": "कपित्थजम्बूफलचारुभक्षणम्।", "repeat": 1 },
+    { "text": "उमासुतं शोकविनाशकारकं", "repeat": 2 },
+    { "text": "नमामि विघ्नेश्वरपादपंकजम्॥", "repeat": 1 },
+    { "text": "वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।", "repeat": 1 },
+    { "text": "निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥", "repeat": 2 },
+    { "text": "जय गणेश जय गणेश जय गणेश देवा।", "repeat": 2 },
+    { "text": "माता जाकी पार्वती पिता महादेवा॥", "repeat": 2 }
+  ],
+  "englishLyrics": [
+    { "text": "Gajananam Bhoota Ganadi Sevitam", "repeat": 1 },
+    { "text": "Kapittha Jambu Phala Charu Bhakshanam|", "repeat": 1 },
+    { "text": "Uma Sutam Shoka Vinasha Karakam", "repeat": 2 },
+    { "text": "Namami Vighneshwara Pada Pankajam||", "repeat": 1 },
+    { "text": "Vakratunda Mahakaya Surya Koti Samaprabha|", "repeat": 1 },
+    { "text": "Nirvighnam Kuru Me Deva Sarva Karyeshu Sarvada||", "repeat": 2 },
+    { "text": "Jai Ganesha Jai Ganesha Jai Ganesha Deva|", "repeat": 2 },
+    { "text": "Mata Jaki Parvati Pita Mahadeva||", "repeat": 2 }
+  ]
+}

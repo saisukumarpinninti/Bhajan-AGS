@@ -1,0 +1,33 @@
+{
+  "id": "achyutam-keshavam",
+  "titleHindi": "अच्युतम केशवम कृष्ण दामोदरम",
+  "titleEng": "Achyutam Keshavam Krishna Damodaram",
+  "videoId": "8vXG_i5d0b4",
+  "nara": "जय श्री राधे कृष्ण!",
+  "category": "Krishna",
+  "thumbnail": "https://img.youtube.com/vi/8vXG_i5d0b4/hqdefault.jpg",
+  "hindiLyrics": [
+    { "text": "अच्युतं केशवं कृष्ण दामोदरं", "repeat": 1 },
+    { "text": "राम नारायणं जानकी वल्लभम्॥", "repeat": 2 },
+    { "text": "कौन कहते हैं भगवान आते नहीं,", "repeat": 1 },
+    { "text": "तुम मीरा के जैसे बुलाते नहीं॥", "repeat": 2 },
+    { "text": "अच्युतं केशवं कृष्ण दामोदरं", "repeat": 1 },
+    { "text": "राम नारायणं जानकी वल्लभम्॥", "repeat": 2 },
+    { "text": "कौन कहते हैं भगवान खाते नहीं,", "repeat": 1 },
+    { "text": "बेर शबरी के जैसे खिलाते नहीं॥", "repeat": 2 },
+    { "text": "कौन कहते हैं भगवान नाचते नहीं,", "repeat": 1 },
+    { "text": "गोपियों की तरह तुम नचाते नहीं॥", "repeat": 2 }
+  ],
+  "englishLyrics": [
+    { "text": "Achyutam Keshavam Krishna Damodaram", "repeat": 1 },
+    { "text": "Rama Narayanam Janaki Vallabham||", "repeat": 2 },
+    { "text": "Kaun Kehte Hain Bhagwan Aate Nahin,", "repeat": 1 },
+    { "text": "Tum Meera Ke Jaise Bulate Nahin||", "repeat": 2 },
+    { "text": "Achyutam Keshavam Krishna Damodaram", "repeat": 1 },
+    { "text": "Rama Narayanam Janaki Vallabham||", "repeat": 2 },
+    { "text": "Kaun Kehte Hain Bhagwan Khaate Nahin,", "repeat": 1 },
+    { "text": "Ber Shabari Ke Jaise Khilate Nahin||", "repeat": 2 },
+    { "text": "Kaun Kehte Hain Bhagwan Naachte Nahin,", "repeat": 1 },
+    { "text": "Gopiyon Ki Tarah Tum Nachate Nahin||", "repeat": 2 }
+  ]
+}

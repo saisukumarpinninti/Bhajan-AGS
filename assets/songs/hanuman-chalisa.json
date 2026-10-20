@@ -1,0 +1,27 @@
+{
+  "id": "hanuman-chalisa",
+  "titleHindi": "श्री हनुमान चालीसा",
+  "titleEng": "Shri Hanuman Chalisa",
+  "videoId": "AETFvQonfV8",
+  "nara": "बजरंग बली की जय! पवनपुत्र हनुमान की जय!",
+  "category": "Hanuman",
+  "thumbnail": "https://img.youtube.com/vi/AETFvQonfV8/hqdefault.jpg",
+  "hindiLyrics": [
+    { "text": "श्रीगुरु चरन सरोज रज निज मनु मुकुरु सुधारि।", "repeat": 1 },
+    { "text": "बरनउ रघुबर बिमल जसु जो दायकु फल चारि॥", "repeat": 1 },
+    { "text": "बुद्धिहीन तनु जानिके सुमिरौ पवन-कुमार।", "repeat": 1 },
+    { "text": "बल बुधि बिद्या देहु मोहिं हरहु कलेस बिकार॥", "repeat": 1 },
+    { "text": "जय हनुमान ज्ञान गुन सागर। जय कपीस तिहुं लोक उजागर॥", "repeat": 2 },
+    { "text": "राम दूत अतुलित बल धामा। अंजनि-पुत्र पवनसुत नामा॥", "repeat": 2 },
+    { "text": "महाबीर बिक्रम बजरंगी। कुमति निवार सुमति के संगी॥", "repeat": 2 }
+  ],
+  "englishLyrics": [
+    { "text": "Shri Guru Charana Saroja Raja Nija Manu Mukuru Sudhari|", "repeat": 1 },
+    { "text": "Baranau Raghubara Bimala Jasu Jo Dayaku Phala Chari||", "repeat": 1 },
+    { "text": "Buddhiheena Tanu Janike Sumirau Pawana Kumara|", "repeat": 1 },
+    { "text": "Bala Buddhi Vidya Dehu Mohi Harahu Kalesha Bikara||", "repeat": 1 },
+    { "text": "Jai Hanuman Gyana Guna Sagara| Jai Kapisa Tihun Loka Ujagara||", "repeat": 2 },
+    { "text": "Rama Doota Atulita Bala Dhama| Anjani Putra Pawanasuta Nama||", "repeat": 2 },
+    { "text": "Mahabira Bikrama Bajarangi| Kumati Niwara Sumati Ke Sangi||", "repeat": 2 }
+  ]
+}

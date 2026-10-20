@@ -1,0 +1,33 @@
+{
+  "id": "shiv-panchakshar",
+  "titleHindi": "शिव पंचाक्षर स्तोत्र (नागेंद्रहाराय)",
+  "titleEng": "Shiv Panchakshar Stotram",
+  "videoId": "z1oH1bQ1m9c",
+  "nara": "हर हर महादेव! ॐ नमः शिवाय!",
+  "category": "Shiva",
+  "thumbnail": "https://img.youtube.com/vi/z1oH1bQ1m9c/hqdefault.jpg",
+  "hindiLyrics": [
+    { "text": "नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय।", "repeat": 1 },
+    { "text": "नित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय॥", "repeat": 2 },
+    { "text": "मन्दाकिनीसलिलचन्दनचर्चिताय नन्दीश्वरप्रमथनाथमहेश्वराय।", "repeat": 1 },
+    { "text": "मन्दारमुख्यबहुपुष्पसुपूजिताय तस्मै मकाराय नमः शिवाय॥", "repeat": 2 },
+    { "text": "शिवाय गौरीवदनाब्जवृन्दसूर्याय दक्षाध्वरनाशकाय।", "repeat": 1 },
+    { "text": "श्रीनीलकण्ठाय वृषध्वजाय तस्मै शिकाराय नमः शिवाय॥", "repeat": 2 },
+    { "text": "वसिष्ठकुम्भोद्भवगौतमार्यमुनीन्द्रदेवार्चितशेखराय।", "repeat": 1 },
+    { "text": "चन्द्रार्कवैश्वानरलोचनाय तस्मै वकाराय नमः शिवाय॥", "repeat": 2 },
+    { "text": "यक्षस्वरूपाय जटाधराय पिनाकहस्ताय सनातनाय।", "repeat": 1 },
+    { "text": "दिव्याय देवाय दिगम्बराय तस्मै यकाराय नमः शिवाय॥", "repeat": 2 }
+  ],
+  "englishLyrics": [
+    { "text": "Nagendra Haraya Trilochanaya Bhasmanga Ragaya Maheshwaraya|", "repeat": 1 },
+    { "text": "Nityaya Shuddhaya Digambaraya Tasmai 'Na' Karaya Namah Shivaya||", "repeat": 2 },
+    { "text": "Mandakini Salila Chandana Charchitaya Nandishwara Pramatha Natha Maheshwaraya|", "repeat": 1 },
+    { "text": "Mandara Mukhya Bahu Pushpa Supujitaya Tasmai 'Ma' Karaya Namah Shivaya||", "repeat": 2 },
+    { "text": "Shivaya Gauri Vadanabja Vrinda Suryaya Daksha Dhwara Nashakaya|", "repeat": 1 },
+    { "text": "Shri Neelakanthaya Vrisha Dhwajaya Tasmai 'Shi' Karaya Namah Shivaya||", "repeat": 2 },
+    { "text": "Vashistha Kumbhodbhava Gautama Arya Munindra Deva Archita Shekharaya|", "repeat": 1 },
+    { "text": "Chandra Arka Vaishwanara Lochanaya Tasmai 'Va' Karaya Namah Shivaya||", "repeat": 2 },
+    { "text": "Yaksha Swaroopaya Jatadharaya Pinaka Hastaya Sanatanaya|", "repeat": 1 },
+    { "text": "Divyaya Devaya Digambaraya Tasmai 'Ya' Karaya Namah Shivaya||", "repeat": 2 }
+  ]
+}
